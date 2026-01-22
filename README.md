@@ -1,5 +1,13 @@
 # Weather Monitoring Dashboard (SEN Assignment)
 
+---
+
+## Student Information
+* **Name:** [Ebubechukwu Ulasi]
+* **Matric Number:** [24/14730]
+
+---
+
 ## 1. Project Overview
 This project is a simple Weather Monitoring system designed to demonstrate the full Software Development Life Cycle (SDLC).
 
@@ -20,7 +28,7 @@ This project is a simple Weather Monitoring system designed to demonstrate the f
 The project is implemented in JavaScript. The code strictly follows the nomenclature defined in the design phase.
 
 ### Phase 4: Testing
-Manual unit testing was performed by verifying the `weatherList` length after adding records.
+Manual unit testing was performed by verifying the `weatherList` length after adding records and checking if IDs incremented correctly.
 
 ### Phase 5: Deployment
 The project is version-controlled using Git and hosted on GitHub.
